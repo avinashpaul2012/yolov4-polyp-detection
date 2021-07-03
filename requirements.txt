@@ -51,7 +51,7 @@ six
 tensorboard==2.2
 tensorboard-plugin-wit==1.8.0
 tensorflow-estimator==1.15.1
-tensorflow-gpu==2.3
+tensorflow-gpu==2.5.0rc0
 termcolor==1.1.0
 tf-estimator-nightly==2.3.0.dev2020062301
 tornado 
