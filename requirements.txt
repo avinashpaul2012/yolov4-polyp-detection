@@ -48,10 +48,10 @@ requests-oauthlib==1.3.0
 rsa==4.7.2
 scipy
 six 
-tensorboard==2.5
+tensorboard==2.2
 tensorboard-plugin-wit==1.8.0
 tensorflow-estimator==1.15.1
-tensorflow-gpu
+tensorflow-gpu==2.3
 termcolor==1.1.0
 tf-estimator-nightly==2.3.0.dev2020062301
 tornado 
